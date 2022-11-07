@@ -1,4 +1,4 @@
-# Python program to swap two variables using temporary variables
+# Python program to swap two variables using temporary variabless
 
 # take inputs
 a = input('Enter the value of a: ')
